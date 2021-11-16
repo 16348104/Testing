@@ -8,4 +8,3 @@ url = 'https://music.163.com/#/mv?id=5496541'
 # sys传递参数执行下载，就像在命令行一样；‘-o’后面跟保存目录。
 sys.argv = ['you-get', '-o', directory, url]
 you_get.main()
-
